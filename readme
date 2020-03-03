@@ -1,0 +1,5 @@
+mac   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates
+
+
+snippet 位置
+~/Library/Developer/Xcode/UserData/CodeSnippets
